@@ -1,0 +1,5 @@
+{
+  "name": "Event Loop Visualizer",
+  "description": "An interactive playground to visualize how the JavaScript Event Loop, Call Stack, Microtask Queue, and Macrotask Queue work together.",
+  "requestFramePermissions": []
+}
